@@ -14,8 +14,8 @@ function firstQuestion(){
     
     $('.content').hide();
     Swal.fire({
-        title: 'yo homie!',
-        text: 'ông có thể cho tôi mượn ông 500k được không , tôi hứa sẽ bùng á ><.',
+        title: 'Yo đứa con của đảng !',
+        text: ' Ông có thể cho tôi mượn ông 500k được không , tôi hứa sẽ bùng á ><.',
         imageUrl: 'img/cuteCat.jpg',
         imageWidth: 300,
         imageHeight: 300,
