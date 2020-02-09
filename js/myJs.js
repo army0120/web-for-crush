@@ -109,19 +109,19 @@ $('#yes').click(function() {
               no-repeat
             `,
         showCancelButton: true,
-        cancelButtonText: "Thôi ngại lém :<<",
+        cancelButtonText: "Thế nha :3",
         confirmButtonColor: '#3085d6',
         cancelButtonColor: '#d33',
         confirmButtonColor: '#fe8a71',
         cancelButtonColor: '#f6cd61',
-        confirmButtonText: 'Gửi cho tớ <3'
+        confirmButtonText: 'Gửi cho tôi ><'
     }).then((result) => {
         if (result.value) {
             Swal.fire({
                 width: 900,
-                confirmButtonText: 'Okiiiii lun <3',
+                confirmButtonText: 'Đm đoạn này đéo nghĩ được ==',
                 background: '#fff url("img/iput-bg.jpg")',
-                title: 'Tớ biết mà ^^ Yêu cậu 300.000',
+                title: 'Tôi biết mà :3 thế nhaaaa',
                 text: "Tối nay tôi đón ông ra net nha :3 Còn giờ thì chờ gì nữa mà ko chuyển khoản cho tôi đi nàoooooo",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
